@@ -1,0 +1,6 @@
+.DS_Store
+.AppleDouble
+.LSOverrible
+
+node_modules/
+app/css/
